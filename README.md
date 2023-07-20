@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) as demo to my new published npm package [`@choubari/streak-counter`](https://github.com/choubari/streak-counter).
+
+![Demo](demo.png)
 
 ## Getting Started
 
